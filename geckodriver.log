@@ -1,0 +1,45 @@
+1597348178103	geckodriver	INFO	Listening on 127.0.0.1:64902
+1597348181335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMIRUL~1\\AppData\\Local\\Temp\\rust_mozprofileJALBKr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[Parent 9316, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390132,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+1597348208427	Marionette	INFO	Listening on port 64910
+1597348208785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597348216815	Marionette	INFO	Stopped listening on port 64910
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.de.4R_SzyyWzfI.O/ck=xjs.s.j2qZAvkI5HA.L.F4.O/am=AAAAAAAQAAAAsATM3QDg-A8CAFxQ4gAAAACQAC0JNhZIISQkBCAAAACYhQkCgAI/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oE__Wrr5JrS64hmW4fy3ibctyow7w/m=DGEKAc,EPszLb,F8FRnd,IkchZc,MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,T7XTS,TxZWcc,URQPYc,VugqBb,XMgU6d,XjCeUc,ZDfS0b,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,eT9j9d,foot,iD8Yk,kJFpDf,kVbfxd,kyn,lu,m,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xiqEse,xz7cCd,yyqeUd,zbML3c?xjs=s1, line 1454: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390130,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390130,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597348227500	geckodriver	INFO	Listening on 127.0.0.1:64979
+1597348230604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMIRUL~1\\AppData\\Local\\Temp\\rust_mozprofileNuPpR8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597348235539	Marionette	INFO	Listening on port 64987
+1597348235926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597348245274	Marionette	INFO	Stopped listening on port 64987
+[Parent 5552, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5552, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
